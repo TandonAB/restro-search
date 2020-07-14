@@ -21,12 +21,12 @@
       "bundleIdentifier": "com.tandon.restrosearch",
       "buildNumber": "1.0.0"
     },
-    "adnroid": {
-      "package": "com.tandon.restrosearch",
-      "versionCode": 1
-    },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "android": {
+      "package": "com.tandon.restrosearch",
+      "versionCode": 1
     }
   }
 }
